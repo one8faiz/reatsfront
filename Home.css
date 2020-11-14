@@ -1,0 +1,10 @@
+  .home__section {
+    display: flex;
+    padding: 30px;
+  }
+  .home__search{
+    width: 60%;
+    padding: 30px;
+    margin-left: 20%;
+    background-color: fade(#7F23E2);
+  }
